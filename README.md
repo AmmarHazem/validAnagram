@@ -45,11 +45,3 @@ const validAnagram = (s1, s2) => {
 }
 
 ```
-
-This README includes:
-1. Clear problem description
-2. Multiple examples
-3. Two different solution approaches with their complexities
-4. Implementation notes
-5. Constraints
-6. Function signature with JSDoc comments
